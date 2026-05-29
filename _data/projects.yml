@@ -73,3 +73,13 @@
         - EN
         - DE
   contributions:
+- name: FitPub (Java)
+  url: https://codeberg.org/fitpub/fitpub/
+  description: A federated social application for sports activities and open source Strava alternative with ActivityPub support.
+  leads:
+    - name: Marcus Fihlon
+      profile_url: https://codeberg.org/McPringle
+      spoken_languages:
+        - EN
+        - DE
+  contributions:
